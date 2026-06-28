@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Anirudhh 👋
 
-<!--
-**Anirudhh-Srinivasan/Anirudhh-Srinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad @ SRM (AI & ML) | Breaking things with AI and occasionally Rust.
+Open source contributor. Web3 when it makes sense.
 
-Here are some ideas to get you started:
+## What I'm building
+- 🤖 **DocBot** — RAG-powered support widget (FastAPI + ChromaDB + Groq/Llama)
+- ⛓️ **CivicChain** — Civic complaint system on Solana (Anchor/Rust + AI layer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+`Python` `FastAPI` `React` `Solana/Anchor` `Rust` `LLMs` `RAG`
+
+## Currently
+- 🔨 Building DocBot for remote contract work
+- 📖 Going deeper on LLMs and open source contributions
+- 🎯 Targeting US MS (UIUC / Georgia Tech) — Fall 2029
+
+## Find me
+[![Twitter](https://img.shields.io/badge/@aniruxe-black?logo=x)](https://twitter.com/aniruxe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anirudhh-srinivasan-553007378)
